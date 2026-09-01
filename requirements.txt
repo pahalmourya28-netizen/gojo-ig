@@ -1,5 +1,5 @@
 python-telegram-bot[job-queue]==21.6
-instagrapi==2.1.2
+instagrapi
 playwright==1.48.0
 playwright-stealth==2.0.3
 python-dotenv==1.0.1
