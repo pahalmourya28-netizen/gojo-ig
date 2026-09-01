@@ -11,7 +11,7 @@ from playwright.sync_api import sync_playwright
 import urllib.parse
 import subprocess
 import errno
-import sys
+import sys 
 
 # Safely handle the Unix-only pty module on Windows
 if sys.platform != "win32":
